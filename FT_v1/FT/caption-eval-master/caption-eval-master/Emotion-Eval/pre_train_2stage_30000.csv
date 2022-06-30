@@ -1,0 +1,136 @@
+vid_id,Have emotion?,Right emotion,Wrong emotion,Reference
+total,112,104,18
+vid1328,Yes,calm,,calm cleverness
+vid1329,Yes,,love,ecstatic fear joy cleverness beauty anticapition calm amaze surprise worry
+vid1324,Yes,love,,love beauty joy sadness interest
+vid1325,Yes,calm,,calm joy bore pensiveness
+vid1326,Yes,calm,,joy calm beauty annoyance
+vid1327,Yes,love,,beauty love interest joy
+vid1320,Yes,calm,,calm joy optimistic hope respect trust
+vid1321,Yes,joy,,joy love calm beauty respect
+vid1322,Yes,calm,,calm joy
+vid1323,Yes,joy,,ecstatic joy proud rage
+vid1409,Yes,beauty,,beauty calm optimistic trust love joy
+vid1408,Yes,rage,,anger rage annoyance calm
+vid1401,No,,,joy calm trust beauty cleverness
+vid1400,No,,,joy calm sadness
+vid1403,Yes,calm,,cleverness calm beauty love
+vid1402,Yes,love joy,,joy calm annoyance shy beauty love
+vid1405,No,,,calm anticapition beauty
+vid1404,No,,,joy anticapition trust worry optimistic calm
+vid1407,Yes,beauty,,joy beauty love anger annoyance calm
+vid1406,Yes,beauty,,beauty love sadness joy interest
+vid1319,No,,,amaze terrible sadness surprise calm disgust annoyance
+vid1318,No,,,pensiveness sadness annoyance trust worry calm proud
+vid1311,Yes,love,,beauty cleverness joy love calm interest hate amaze
+vid1310,No,,,calm love beauty joy anticapition trust
+vid1313,Yes,,love,anticapition calm beauty joy
+vid1312,Yes,joy,,joy calm amaze trust interest
+vid1315,Yes,terrible,,amaze surprise fear anger love ecstatic calm rage cleverness joy trust terrible interest
+vid1314,No,,,sadness terrible amaze trust worry love calm grief disgust fear
+vid1317,Yes,joy,,joy beauty calm anticapition optimistic hope love
+vid1316,No,,,calm joy anticapition
+vid1391,Yes,calm,,love joy fear shy terrible beauty calm interest
+vid1390,Yes,love,,joy love beauty anger interest
+vid1393,No,,,ecstatic joy anticapition optimistic beauty calm hope
+vid1392,Yes,love,,calm fear anger beauty love joy
+vid1395,Yes,calm,,joy calm love bore cleverness
+vid1394,Yes,love,,love calm joy beauty shy
+vid1397,Yes,joy,love,joy calm amaze trust interest proud respect
+vid1396,Yes,joy,,anticapition joy ecstatic optimistic hope trust interest amaze calm cleverness
+vid1399,Yes,love,,love beauty joy calm
+vid1398,Yes,joy,,calm joy bore ugliness love beauty ecstatic
+vid1425,Yes,amaze,,ecstatic joy beauty amaze calm trust
+vid1416,Yes,joy,,calm love beauty joy
+vid1417,Yes,joy,,fear joy interest surprise
+vid1414,Yes,joy,love,ecstatic joy rage hope amaze trust beauty anger
+vid1415,No,,,surprise fear terrible rage calm anger proud
+vid1412,Yes,,worry,calm pensiveness
+vid1413,Yes,love joy,,love beauty joy
+vid1410,Yes,calm,,calm joy love beauty
+vid1411,No,,,calm beauty hope
+vid1423,No,,,calm amaze love cleverness
+vid1418,Yes,beauty love,,beauty love joy calm
+vid1419,Yes,joy,,ecstatic joy love trust
+vid1421,Yes,calm,,calm joy anticapition beauty
+vid1420,No,,,calm joy
+vid1388,Yes,calm,,calm beauty hope amaze love
+vid1389,Yes,love,,beauty love joy cleverness
+vid1386,Yes,ecstatic,,ecstatic joy anticapition respect trust surprise amaze disappoint
+vid1387,Yes,anger,,rage anger cleverness interest amaze trust love
+vid1384,Yes,beauty,,love beauty joy rage interest terrible
+vid1385,Yes,love joy,,joy optimistic bore calm love
+vid1382,Yes,joy,,ecstatic joy
+vid1383,Yes,,love,terrible amaze fear disgust rage
+vid1380,Yes,calm,,joy calm
+vid1381,Yes,calm,,joy calm
+vid1427,Yes,calm,,ecstatic fear amaze surprise calm joy respect trust cleverness
+vid1426,Yes,calm,,calm beauty anticapition
+vid1306,Yes,calm,,calm love
+vid1307,Yes,love,,beauty love cleverness interest joy calm ugliness
+vid1304,Yes,,pensiveness,optimistic anticapition hope proud trust respect joy calm
+vid1305,No,,,beauty love joy cleverness anticapition calm
+vid1302,Yes,joy,,ecstatic anger fear optimistic rage calm trust joy anticapition
+vid1303,Yes,joy,,cleverness love calm beauty joy interest pensiveness
+vid1301,Yes,love,,joy beauty trust love cleverness amaze
+vid1424,Yes,joy,,ecstatic joy beauty love amaze trust
+vid1308,Yes,,calm,joy interest
+vid1309,Yes,shy,beauty,calm shy love fear trust grief worry joy
+vid1433,Yes,love,,love joy beauty interest
+vid1373,Yes,,love proud,calm joy anticapition worry beauty
+vid1372,Yes,fear,,fear terrible sadness joy surprise love
+vid1371,Yes,joy,,terrible fear amaze joy worry
+vid1370,Yes,calm,,calm love terrible surprise amaze fear disgust joy beauty worry annoyance
+vid1377,Yes,calm,,calm joy interest
+vid1376,Yes,calm,,calm interest beauty
+vid1375,Yes,calm,,calm joy interest cleverness beauty
+vid1374,Yes,calm,,calm interest
+vid1422,Yes,love,,calm beauty love joy interest
+vid1379,Yes,calm,,joy calm
+vid1378,Yes,calm,,calm
+vid1360,Yes,joy,,joy beauty fear love annoyance terrible
+vid1361,Yes,calm,,calm bore joy anticapition love interest
+vid1362,Yes,calm,,rage anger calm amaze hope proud trust
+vid1363,Yes,love,,love beauty calm joy anger
+vid1364,Yes,,fear,joy amaze interest terrible surprise
+vid1365,Yes,joy,,ecstatic joy
+vid1366,Yes,love,,calm joy terrible love beauty ecstatic fear shy worry
+vid1367,No,,,ecstatic love beauty joy interest
+vid1368,No,,,joy calm interest worry annoyance terrible
+vid1369,Yes,love,,beauty joy cleverness love interest calm
+vid1359,Yes,love,,fear joy anger beauty love rage amaze proud cleverness interest
+vid1358,Yes,joy,,joy amaze surprise hope anticapition cleverness optimistic interest
+vid1429,Yes,calm,,calm joy beauty cleverness
+vid1428,Yes,calm,,calm beauty love cleverness
+vid1355,Yes,joy,,ecstatic calm fear love joy beauty trust worry cleverness
+vid1354,Yes,joy,,joy interest
+vid1357,Yes,,calm,interest joy amaze surprise rage trust
+vid1356,Yes,,amaze,joy love fear terrible trust surprise interest cleverness
+vid1351,No,,,joy ecstatic beauty anger rage trust interest love
+vid1350,Yes,calm,,anger rage beauty calm hope joy
+vid1353,Yes,calm,,calm joy love beauty cleverness trust amaze
+vid1352,Yes,love,,cleverness joy rage love beauty ecstatic calm
+vid1339,Yes,terrible,,joy disgust calm love terrible
+vid1338,Yes,calm,,joy calm ecstatic
+vid1337,Yes,love rage,,joy anger annoyance anticapition hope beauty interest calm love rage fear
+vid1336,Yes,love,,anger rage worry terrible beauty joy interest calm love
+vid1335,Yes,love,,calm love beauty joy proud
+vid1334,Yes,calm,,calm joy interest
+vid1333,Yes,,calm,joy amaze interest bore ugliness
+vid1332,No,,,terrible fear joy rage love
+vid1331,Yes,calm,,joy calm bore
+vid1330,No,,,joy anticapition trust
+vid1434,No,,,joy calm trust cleverness love respect
+vid1430,Yes,calm,,joy calm cleverness
+vid1431,Yes,calm,,calm beauty
+vid1348,Yes,love,,joy love beauty interest optimistic cleverness calm
+vid1349,Yes,calm,,calm amaze joy beauty proud
+vid1432,Yes,love,,beauty love joy interest
+vid1342,Yes,calm,,respect calm joy beauty
+vid1343,No,,,calm joy anticapition amaze
+vid1340,Yes,,beauty,fear terrible disgust annoyance joy surprise amaze rage
+vid1341,Yes,,amaze interest,respect anticapition joy ecstatic surprise calm terrible worry rage anger
+vid1346,Yes,calm,,calm joy annoyance
+vid1347,Yes,calm,,joy optimistic calm anticapition
+vid1344,Yes,joy,,joy calm
+vid1345,Yes,calm,,calm joy proud beauty

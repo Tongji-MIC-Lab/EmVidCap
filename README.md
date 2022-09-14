@@ -75,4 +75,3 @@ To foster the research on video captioning/description with emotion expression, 
 Please cite the following paper if you use the code and the dataset:
 
 Hanli Wang, Pengjie Tang, Qinyu Li and Meng Cheng, Emotion Expression with Fact Transfer for Video Description, IEEE Transactions on Multimedia, vol. 24, pp. 715-727, Feb. 2022. DOI: [10.1109/TMM.2021.3058555](https://doi.org/10.1109/TMM.2021.3058555). 
-
